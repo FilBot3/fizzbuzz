@@ -1,0 +1,10 @@
+# Python Files
+*.pyc
+/dist/
+*.egg-info
+*.egg
+*.eggs
+
+# Vim Files
+*~
+*.sw[a-z0-9]
